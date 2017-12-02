@@ -171,7 +171,7 @@ To present our take on this matter we have followed the below steps:
 
 **Visualization 1:** 
 
-<img width="389" alt="screen shot 2017-12-01 at 8 49 03 pm" src="https://user-images.githubusercontent.com/25557540/33511882-3dba5dde-d6d9-11e7-8780-9ee7cdf165a2.png">
+![Alt text](https://github.com/nrajeswaran/Data-Viz-Final-Project/blob/master/Viz1.png)
 
 **What's good about this Visualization:**
 
@@ -189,8 +189,7 @@ To present our take on this matter we have followed the below steps:
 
 **Visualization 2:** 
 
-![sheet 5](https://user-images.githubusercontent.com/25557540/33506781-226a4658-d6a6-11e7-9dfa-6252c7270d61.png)
-
+![Alt text](https://github.com/nrajeswaran/Data-Viz-Final-Project/blob/master/viz3.png)
 
 **What's good about this Visualization:**
 
@@ -208,7 +207,6 @@ To present our take on this matter we have followed the below steps:
 ******************************************************************************************************************************
 
 **Visualization 3:** 
-
 
 ![intermediate](https://user-images.githubusercontent.com/25557540/33509372-d5e6fd84-d6b5-11e7-9684-b880eca18ee7.png)
 
